@@ -1,2 +1,2 @@
 # OOPProject
-Basic object-oriented principles are used in Java.
+Basic object-oriented principles used in Java.
